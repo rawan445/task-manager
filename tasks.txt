@@ -1,0 +1,3 @@
+Tasks Database
+- Learn Git basics
+- Set up Git repository
